@@ -1,0 +1,14 @@
+/* Existing CSS... */
+
+.lap-times {
+    margin-top: 20px;
+    font-family: 'Roboto mono', monospace;
+    color: black;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.lap-times div {
+    padding: 5px;
+    border-bottom: 1px solid red;
+}
